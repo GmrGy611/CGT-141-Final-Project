@@ -1,0 +1,125 @@
+/* General Changes */
+.banner{
+    width:100%;
+}
+
+.container{
+    background-color: darkgrey;
+    padding: 5px;
+}
+
+.menu{
+    text-align: center;
+    width: 100%;
+}
+
+.title{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+}
+
+.header{
+    font-family:'Courier New', Courier, monospace
+}
+
+.subheader{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.body{
+    line-height: 125%;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+
+/* Classes Page */
+#gunner-header{
+    color:green;
+}
+
+#gunner-image{
+    width: 475px;
+}
+
+#driller-header{
+    color:yellow;
+}
+
+#driller-image{
+    width:425px;
+}
+
+#engineer-header{
+    color:red;
+}
+
+#engineer-image{
+    width:435px;
+}
+
+#scout-header{
+    color: blue;
+}
+
+#scout-image{
+    width:425px;
+}
+
+/* Missions Page */
+#missionTypes-header{
+    text-align: center;
+}
+
+.tips-header{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.tips-body{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+
+.mission-logo{
+    width: 200px;
+}
+
+/* Biomes Page */
+.biome-image{
+    width: 410px;
+}
+
+.abundant{
+    color:green;
+}
+
+.scarce{
+    color:red;
+}
+
+/* Enemies Page */
+.creature-image{
+    width: 400px;
+}
+
+#hiveguardImageNote{
+    font-size: 9px;
+}
+
+/* Random Events Page */
+#crate-image{
+    width:400px;
+}
+
+#pack-image{
+    width: 400px;
+}
+
+.machineEvent-image{
+    width: 400px;
+}
+
+ul{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+#meteor-image{
+    width: 400px;
+}
